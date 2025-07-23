@@ -22,29 +22,4 @@ This project is a complete implementation of the classic [2048](https://play2048
 -   **Hammer.js:** A library for recognizing gestures (swipes) on touch-enabled devices.
 -   **Parcel:** Used as a project bundler for development and the final build.
 
-## How to Run Locally
-
-To run this project on your local machine, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/anhrytsan/js_2048_game.git](https://github.com/anhrytsan/js_2048_game.git)
-    ```
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd js_2048_game
-    ```
-
-3.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-4.  **Run the development server:**
-    ```bash
-    npm start
-    ```
-    The project will then be available at `http://localhost:1234`.
-
 
